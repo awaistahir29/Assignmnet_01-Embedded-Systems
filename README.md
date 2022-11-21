@@ -2,7 +2,7 @@
 This is the first assignmnet of the embedded system course. Mocrochip dsPIC30F4011 has used to communicate with other peripherals in order to send, receive and display information on the LCD.
 ## Software Tool
 MPLAB software tool has used to program the Microchip dsPIC30F4011.
-## Tasks
+## Algorithm Details
 Following tasks has performed:
 1. Simulated an algorithm that needs 7 ms for its execution, and
 needs to work at 100 Hz.
